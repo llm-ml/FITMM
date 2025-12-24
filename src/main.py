@@ -1,9 +1,8 @@
 # coding: utf-8
-# @email: enoche.chow@gmail.com
 
 """
 Main entry
-# UPDATED: 2022-Feb-15
+# UPDATED
 ##########################
 """
 
