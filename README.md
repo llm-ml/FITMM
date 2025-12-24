@@ -1,6 +1,8 @@
-# FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning
+# FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning (ACM MM 2025)
 
-**FITMM** is a frequency-aware information-theoretic framework for multimodal recommendation.
+**FITMM** is an adaptive frequency-aware information-theoretic framework for multimodal recommendation, accepted at **ACM Multimedia (ACM MM) 2025**. 
+
+- *FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning*
 
 ---
 
